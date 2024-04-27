@@ -1,0 +1,2 @@
+# ciftSay-lar-BulanProg
+ciftSayılarıBulanProg
